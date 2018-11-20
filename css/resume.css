@@ -190,3 +190,8 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+#skills > div > ul.list-inline.dev-icons {
+
+  margin : auto;
+}
